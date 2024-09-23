@@ -1,0 +1,18 @@
+[package]
+name = "RustServer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.2"
+dotenv = "0.15.0"
+serde = "1.0.188"
+futures = "0.3.28"
+bson = { version = "2", features = ["chrono-0_4"] } # Needed for using chrono datetime in doc
+tokio = { version = "1", features = ["full"] }
+chrono = "0.4" # Used for setting DateTimes
+rand = "0.8"
+serde_json = "1.0"
+
+[dependencies.mongodb]
+version = "3.1.0"

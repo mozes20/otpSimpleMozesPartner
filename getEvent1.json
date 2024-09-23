@@ -1,0 +1,68 @@
+{
+    "data": {
+        "eventId": 1,
+        "seats": [
+            {
+                "id": "S1",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            },
+            {
+                "id": "S2",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": false
+            },
+            {
+                "id": "S3",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": false
+            },
+            {
+                "id": "S4",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": false
+            },
+            {
+                "id": "S5",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": false
+            },
+            {
+                "id": "S6",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            },
+            {
+                "id": "S7",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            },
+            {
+                "id": "S8",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            },
+            {
+                "id": "S9",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            },
+            {
+                "id": "S10",
+                "price": 1000,
+                "currency": "HUF",
+                "reserved": true
+            }
+        ]
+    },
+    "success": true
+}

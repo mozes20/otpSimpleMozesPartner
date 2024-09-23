@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "eventId": 1,
+            "title": "Szilveszteri zártkörű rendezvény",
+            "location": "Greenwich",
+            "startTimeStamp": "1577836800",
+            "endTimeStamp": "1577844000"
+        },
+        {
+            "eventId": 2,
+            "title": "Májusi mulatság",
+            "location": "Budapest",
+            "startTimeStamp": "1588334400",
+            "endTimeStamp": "1588348800"
+        },
+        {
+            "eventId": 3,
+            "title": "Necc party",
+            "location": "Debrecen",
+            "startTimeStamp": "1607731200",
+            "endTimeStamp": "1607817599"
+        }
+    ],
+    "success": true
+}
